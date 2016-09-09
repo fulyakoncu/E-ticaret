@@ -1,0 +1,111 @@
+C:\Users\Sevinc\tahsin\Cekirdek\Eticaret\LogSistemi\bin\Debug\LogSistemi.dll
+C:\Users\Sevinc\tahsin\Cekirdek\Eticaret\LogSistemi\bin\Debug\LogSistemi.pdb
+C:\Users\Sevinc\tahsin\Cekirdek\Eticaret\LogSistemi\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\Sevinc\tahsin\Cekirdek\Eticaret\LogSistemi\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\Sevinc\tahsin\Cekirdek\Eticaret\LogSistemi\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Sevinc\tahsin\Cekirdek\Eticaret\LogSistemi\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Sevinc\tahsin\Cekirdek\Eticaret\LogSistemi\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\Sevinc\tahsin\Cekirdek\Eticaret\LogSistemi\bin\Debug\Microsoft.Practices.Unity.pdb
+C:\Users\Sevinc\tahsin\Cekirdek\Eticaret\LogSistemi\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Sevinc\tahsin\Cekirdek\Eticaret\LogSistemi\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+C:\Users\Sevinc\tahsin\Cekirdek\Eticaret\LogSistemi\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Sevinc\tahsin\Cekirdek\Eticaret\LogSistemi\obj\Debug\LogSistemi.dll
+C:\Users\Sevinc\tahsin\Cekirdek\Eticaret\LogSistemi\obj\Debug\LogSistemi.pdb
+C:\Users\Sevinch\Tahsin\Projeler\Eticaret\Eticaret\LogSistemi\bin\Debug\LogSistemi.dll
+C:\Users\Sevinch\Tahsin\Projeler\Eticaret\Eticaret\LogSistemi\bin\Debug\LogSistemi.pdb
+C:\Users\Sevinch\Tahsin\Projeler\Eticaret\Eticaret\LogSistemi\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\Sevinch\Tahsin\Projeler\Eticaret\Eticaret\LogSistemi\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\Sevinch\Tahsin\Projeler\Eticaret\Eticaret\LogSistemi\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Sevinch\Tahsin\Projeler\Eticaret\Eticaret\LogSistemi\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Sevinch\Tahsin\Projeler\Eticaret\Eticaret\LogSistemi\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\Sevinch\Tahsin\Projeler\Eticaret\Eticaret\LogSistemi\bin\Debug\Microsoft.Practices.Unity.pdb
+C:\Users\Sevinch\Tahsin\Projeler\Eticaret\Eticaret\LogSistemi\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Sevinch\Tahsin\Projeler\Eticaret\Eticaret\LogSistemi\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+C:\Users\Sevinch\Tahsin\Projeler\Eticaret\Eticaret\LogSistemi\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Sevinch\Tahsin\Projeler\Eticaret\Eticaret\LogSistemi\obj\Debug\LogSistemi.dll
+C:\Users\Sevinch\Tahsin\Projeler\Eticaret\Eticaret\LogSistemi\obj\Debug\LogSistemi.pdb
+C:\Users\Sevinch\Tahsin\Projeler\Eticaret\Eticaret-son\LogSistemi\bin\Debug\LogSistemi.dll
+C:\Users\Sevinch\Tahsin\Projeler\Eticaret\Eticaret-son\LogSistemi\bin\Debug\LogSistemi.pdb
+C:\Users\Sevinch\Tahsin\Projeler\Eticaret\Eticaret-son\LogSistemi\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\Sevinch\Tahsin\Projeler\Eticaret\Eticaret-son\LogSistemi\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\Sevinch\Tahsin\Projeler\Eticaret\Eticaret-son\LogSistemi\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Sevinch\Tahsin\Projeler\Eticaret\Eticaret-son\LogSistemi\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Sevinch\Tahsin\Projeler\Eticaret\Eticaret-son\LogSistemi\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\Sevinch\Tahsin\Projeler\Eticaret\Eticaret-son\LogSistemi\bin\Debug\Microsoft.Practices.Unity.pdb
+C:\Users\Sevinch\Tahsin\Projeler\Eticaret\Eticaret-son\LogSistemi\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Sevinch\Tahsin\Projeler\Eticaret\Eticaret-son\LogSistemi\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+C:\Users\Sevinch\Tahsin\Projeler\Eticaret\Eticaret-son\LogSistemi\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Sevinch\Tahsin\Projeler\Eticaret\Eticaret-son\LogSistemi\obj\Debug\LogSistemi.dll
+C:\Users\Sevinch\Tahsin\Projeler\Eticaret\Eticaret-son\LogSistemi\obj\Debug\LogSistemi.pdb
+C:\Users\PC\Desktop\Eticaret-proje\LogSistemi\bin\Debug\LogSistemi.dll.config
+C:\Users\PC\Desktop\Eticaret-proje\LogSistemi\bin\Debug\LogSistemi.dll
+C:\Users\PC\Desktop\Eticaret-proje\LogSistemi\bin\Debug\LogSistemi.pdb
+C:\Users\PC\Desktop\Eticaret-proje\LogSistemi\bin\Debug\EntityFramework.dll
+C:\Users\PC\Desktop\Eticaret-proje\LogSistemi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\PC\Desktop\Eticaret-proje\LogSistemi\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\PC\Desktop\Eticaret-proje\LogSistemi\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\PC\Desktop\Eticaret-proje\LogSistemi\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\PC\Desktop\Eticaret-proje\LogSistemi\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\PC\Desktop\Eticaret-proje\LogSistemi\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\PC\Desktop\Eticaret-proje\LogSistemi\bin\Debug\EntityFramework.xml
+C:\Users\PC\Desktop\Eticaret-proje\LogSistemi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\PC\Desktop\Eticaret-proje\LogSistemi\bin\Debug\Microsoft.Practices.Unity.pdb
+C:\Users\PC\Desktop\Eticaret-proje\LogSistemi\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\PC\Desktop\Eticaret-proje\LogSistemi\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+C:\Users\PC\Desktop\Eticaret-proje\LogSistemi\obj\Debug\LogSistemi.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\Eticaret-proje\LogSistemi\obj\Debug\LogSistemi.dll
+C:\Users\PC\Desktop\Eticaret-proje\LogSistemi\obj\Debug\LogSistemi.pdb
+C:\Users\PC\Desktop\Eticaret-proje - Kopya\LogSistemi\bin\Debug\LogSistemi.dll.config
+C:\Users\PC\Desktop\Eticaret-proje - Kopya\LogSistemi\bin\Debug\LogSistemi.dll
+C:\Users\PC\Desktop\Eticaret-proje - Kopya\LogSistemi\bin\Debug\LogSistemi.pdb
+C:\Users\PC\Desktop\Eticaret-proje - Kopya\LogSistemi\bin\Debug\EntityFramework.dll
+C:\Users\PC\Desktop\Eticaret-proje - Kopya\LogSistemi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\PC\Desktop\Eticaret-proje - Kopya\LogSistemi\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\PC\Desktop\Eticaret-proje - Kopya\LogSistemi\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\PC\Desktop\Eticaret-proje - Kopya\LogSistemi\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\PC\Desktop\Eticaret-proje - Kopya\LogSistemi\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\PC\Desktop\Eticaret-proje - Kopya\LogSistemi\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\PC\Desktop\Eticaret-proje - Kopya\LogSistemi\bin\Debug\EntityFramework.xml
+C:\Users\PC\Desktop\Eticaret-proje - Kopya\LogSistemi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\PC\Desktop\Eticaret-proje - Kopya\LogSistemi\bin\Debug\Microsoft.Practices.Unity.pdb
+C:\Users\PC\Desktop\Eticaret-proje - Kopya\LogSistemi\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\PC\Desktop\Eticaret-proje - Kopya\LogSistemi\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+C:\Users\PC\Desktop\Eticaret-proje - Kopya\LogSistemi\obj\Debug\LogSistemi.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\Eticaret-proje - Kopya\LogSistemi\obj\Debug\LogSistemi.dll
+C:\Users\PC\Desktop\Eticaret-proje - Kopya\LogSistemi\obj\Debug\LogSistemi.pdb
+C:\Users\PC\Desktop\proje\Eticaret-proje - Kopya\LogSistemi\bin\Debug\LogSistemi.dll.config
+C:\Users\PC\Desktop\proje\Eticaret-proje - Kopya\LogSistemi\bin\Debug\LogSistemi.dll
+C:\Users\PC\Desktop\proje\Eticaret-proje - Kopya\LogSistemi\bin\Debug\LogSistemi.pdb
+C:\Users\PC\Desktop\proje\Eticaret-proje - Kopya\LogSistemi\bin\Debug\EntityFramework.dll
+C:\Users\PC\Desktop\proje\Eticaret-proje - Kopya\LogSistemi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\PC\Desktop\proje\Eticaret-proje - Kopya\LogSistemi\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\PC\Desktop\proje\Eticaret-proje - Kopya\LogSistemi\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\PC\Desktop\proje\Eticaret-proje - Kopya\LogSistemi\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\PC\Desktop\proje\Eticaret-proje - Kopya\LogSistemi\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\PC\Desktop\proje\Eticaret-proje - Kopya\LogSistemi\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\PC\Desktop\proje\Eticaret-proje - Kopya\LogSistemi\bin\Debug\EntityFramework.xml
+C:\Users\PC\Desktop\proje\Eticaret-proje - Kopya\LogSistemi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\PC\Desktop\proje\Eticaret-proje - Kopya\LogSistemi\bin\Debug\Microsoft.Practices.Unity.pdb
+C:\Users\PC\Desktop\proje\Eticaret-proje - Kopya\LogSistemi\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\PC\Desktop\proje\Eticaret-proje - Kopya\LogSistemi\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+C:\Users\PC\Desktop\proje\Eticaret-proje - Kopya\LogSistemi\obj\Debug\LogSistemi.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\proje\Eticaret-proje - Kopya\LogSistemi\obj\Debug\LogSistemi.dll
+C:\Users\PC\Desktop\proje\Eticaret-proje - Kopya\LogSistemi\obj\Debug\LogSistemi.pdb
+C:\Users\PC\Desktop\E-ticaret\LogSistemi\bin\Debug\LogSistemi.dll.config
+C:\Users\PC\Desktop\E-ticaret\LogSistemi\bin\Debug\LogSistemi.dll
+C:\Users\PC\Desktop\E-ticaret\LogSistemi\bin\Debug\LogSistemi.pdb
+C:\Users\PC\Desktop\E-ticaret\LogSistemi\bin\Debug\EntityFramework.dll
+C:\Users\PC\Desktop\E-ticaret\LogSistemi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\PC\Desktop\E-ticaret\LogSistemi\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\PC\Desktop\E-ticaret\LogSistemi\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\PC\Desktop\E-ticaret\LogSistemi\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\PC\Desktop\E-ticaret\LogSistemi\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\PC\Desktop\E-ticaret\LogSistemi\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\PC\Desktop\E-ticaret\LogSistemi\bin\Debug\EntityFramework.xml
+C:\Users\PC\Desktop\E-ticaret\LogSistemi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\PC\Desktop\E-ticaret\LogSistemi\bin\Debug\Microsoft.Practices.Unity.pdb
+C:\Users\PC\Desktop\E-ticaret\LogSistemi\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\PC\Desktop\E-ticaret\LogSistemi\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+C:\Users\PC\Desktop\E-ticaret\LogSistemi\obj\Debug\LogSistemi.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\E-ticaret\LogSistemi\obj\Debug\LogSistemi.dll
+C:\Users\PC\Desktop\E-ticaret\LogSistemi\obj\Debug\LogSistemi.pdb

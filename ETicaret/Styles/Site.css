@@ -1,0 +1,356 @@
+﻿/* DEFAULTS
+----------------------------------------------------------*/
+
+body
+{
+    background: #e5e5e5;
+    font-size: .80em;
+    font-family: "Helvetica Neue" , "Lucida Grande" , "Segoe UI" , Arial, Helvetica, Verdana, sans-serif;
+    margin: 0px;
+    padding: 0px;
+    color: #696969;
+}
+.page
+{
+    width: 980px;
+    background-color: #fff;
+    margin: 25px auto 25px auto;
+    border: 1px solid #cfcfcf;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+}
+
+/*********************************************************/
+
+/**********************---HEADER---**********************/
+#header
+{
+    margin: 3px;
+    background: #ffffff url(images/site/banner.gif) repeat-x;
+    width: 974px;
+    height: 97px;
+}
+
+#logo
+{
+    background-image: url(images/site/logo.png);
+    width: 250px;
+    height: 100px;
+    float: left;
+}
+#slogan
+{
+    background-image: url(images/site/text.png);
+    width: 240px;
+    height: 34px;
+    margin-top: 40px;
+    float: left;
+}
+#ara
+{
+    width: 400px;
+    float: right;
+    margin-top: 40px;
+}
+/**********************-----Menü-----***********************/
+#menu
+{
+    height: 44px;
+    width: 970px;
+    margin: 5px;
+    background-image: url(images/site/menu.png);
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+}
+#dvLinks
+{
+    width: 970px;
+    display: block;
+    padding-top: 5px;
+    padding-right: 0px;
+    height: 30px;
+    float: left;
+}
+ul.ustmenu
+{
+    list-style: none;
+    padding: 0;
+    margin: auto;
+    float: left;
+}
+
+ul.ustmenu li
+{
+    display: inline;
+    text-align: center;
+    margin-top: 6px;
+    width: 160px;
+    float: left;
+    border-right: 1px solid #f16b06;
+}
+ul.ustmenu li a
+{
+    color: #ffffff;
+    text-decoration: none;
+    font-size: 14px;
+}
+/***************************GOVDE*******************************/
+.main
+{
+    width: 100%;
+    height: auto;
+}
+.yankisim
+{
+    width: 185px;
+    height: auto;
+    position: relative;
+}
+.ortakisim
+{
+    width: 590px;
+    margin: 0px auto 0px auto;
+    padding: 10px;
+    position: relative;
+}
+
+.dvAlan
+{
+    margin: 3px;
+    border: 1px solid #dbdbdb;
+    -moz-border-radius: 3px;
+    -webkit-border-radius: 3px;
+    border-radius: 3px;
+}
+
+.dvAlan span
+{
+    margin: 5px;
+}
+
+ul.genelmenu
+{
+    list-style-type: none;
+    width: 100%;
+    margin-left: -40px;
+    margin-top: 0px;
+}
+
+ul.genelmenu li
+{
+    line-height: 25px;
+    border-bottom: 1px solid #dbdbdb;
+}
+
+ul.genelmenu li img
+{
+    width: 150px;
+}
+.menubaslik
+{
+    background: #ffffff url(images/site/menu.png) repeat-x;
+    height: 40px;
+    border-bottom: 1px solid #dbdbdb;
+    color: #ffffff;
+    vertical-align:middle;
+    padding-left:10px;
+}
+.menubaslik > span
+{
+    padding-left:15px;
+    background:url(images/bulletwhite.png) no-repeat;
+    background-position:left;
+    font-size: 17px;
+}
+.menugovde
+{
+    padding-left:5px;
+    padding-right:5px;
+}
+/********************************--------footer--------**************************************/
+.footer
+{
+    margin: 5px 5px 10px 5px;
+    background: #ffffff url(images/site/banner.gif) repeat-x;
+    width: 968px;
+    height: 72px;
+    border: 1px solid #dbdbdb;
+    -moz-border-radius: 3px;
+    -webkit-border-radius: 3px;
+    border-radius: 3px;
+}
+
+#dvkartlar
+{
+    margin: 20px;
+    background: url(images/site/kartlar.png);
+    width: 162px;
+    height: 26px;
+    float: left;
+}
+#dvAltMenu
+{
+    float: right;
+    width: 500px;
+    height: 50px;
+    margin-right: 20px;
+    margin-top:15px;
+}
+ul.altmenu
+{
+    list-style: none;
+    padding: 0;
+    margin: auto;
+    float: right;
+}
+
+ul.altmenu li
+{
+    display: inline;
+    margin-top: 6px;
+    float: left;
+    border-right: 1px solid #969595;
+}
+ul.altmenu li a
+{
+    color: #535151;
+    text-decoration: none;
+    font-size: 14px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+
+/* MISC  
+----------------------------------------------------------*/
+
+.clear
+{
+    clear: both;
+}
+/****************************************************************/
+
+.ucurun
+{
+    width: 278px;
+    height: 306px;
+    text-align: center;
+    float: left;
+    border:1px solid #dbdbdb;
+    margin-left:5px;
+    margin-top:5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+}
+.ucresim
+{
+    margin-top: 20px;
+    margin-left: 72px;
+    width: 134px;
+    height: 142px;
+}
+
+.ucmarka
+{
+    margin-top: 5px;
+    width: 278px;
+    height: 18px;
+    font-family: Arial;
+    
+    text-align: center;
+    font-size: 14px;
+}
+.ucmarka a
+{color: #479ad1 !important;}
+.ucmodel
+{
+    margin-top: 2px;
+    width: 278px;
+    height: 18px;
+    font-family: Arial;
+    color: #7c7c7c;
+    text-align: center;
+    font-size: 13px;
+}
+.ucurunalt
+{
+    background: url("images/site/urunaltbg.png") no-repeat;
+    width: 260px;
+    height: 81px;
+    margin-left: 9px;
+    margin-top: 10px;
+}
+
+.ucfiyat-incele
+{
+    width: 126px;
+    height: 73px;
+    margin: 4px 0 0 4px;
+    float: left;
+}
+.ucsepet-adet
+{
+    width: 126px;
+    height: 73px;
+    margin: 4px 4px 0 0;
+    float: right;
+}
+.ucfiyat
+{
+    width: 126px;
+    height: 25px;
+    font-family: Arial;
+    font-size: 20px;
+    color: #a73b3b;
+    text-align: center;
+    margin: 10px 0 0 0;
+}
+.ucadet
+{
+    text-align: left;
+    width: 102px;
+    height: 25px;
+    font-family: Arial;
+    font-size: 12px;
+    color: #343434;
+    margin: 10px 0 0 0;
+    padding: 0 0 0 24px;
+}
+.ucDetay a
+{
+    text-decoration:'underline' !important;
+    color:#7b7b7b !important;
+    font-size:16px;
+}
+.ucDetay a:hover
+{
+    text-decoration:'underline';
+    color:#7b7b7b;
+}
+/****************************************************************/
+/***********site genel */
+a:link, a:visited
+{
+    color: #909090;
+    text-decoration: none;
+}
+
+a:hover
+{
+    color: #000000;
+    text-decoration: none;
+}
+
+a:active
+{
+    color: #034af3;
+}
+
+p
+{
+    margin-bottom: 10px;
+    line-height: 1.6em;
+}

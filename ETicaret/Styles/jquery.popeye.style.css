@@ -1,0 +1,193 @@
+/* fallback styles for image list */
+.ppy-imglist {
+    width:          100%;
+    display:        block;
+    overflow:       hidden;
+    
+}
+.ppy-imglist li {
+    padding:        10px;
+    border:         1px solid #f0f0f0;
+    border-radius:          5px;
+    -moz-border-radius:     5px;
+    -khtml-border-radius:   5px;
+    -webkit-border-radius:  5px;
+    background:     #fff;
+    list-style:     none;
+    float:          left;
+    display:        block;
+    margin:         0 10px 10px 0;
+}
+.ppy-imglist li a img {
+    display:        block;
+    border:         0;
+}
+.ppy-outer {
+    display:                none;
+}
+.ppy-active .ppy-outer {
+    display:                block;
+}
+.ppy-stage {
+    background-repeat:      no-repeat !important;
+    background-position:    center center !important;
+    position:               relative;
+}
+
+.ppy-placeholder {
+    position:               relative;
+}
+
+.ppy-caption,
+.ppy-captionwrap {
+    overflow:               hidden;
+}
+
+.ppy-hidden {
+    display:                none !important;
+}
+#ppy2 .ppy-imglist li,
+#ppy2 .ppy-imglist li a {
+    width:              160px;
+    height:             160px;
+    overflow:           hidden;
+    display:        block;
+}
+
+/* popeye example 2 */
+#ppy2.ppy-active {
+    width:          224px;
+    float:          left;
+    margin:         0 0 0 0;
+}
+
+#ppy2 .ppy-outer {
+    padding:        0 46px 0 0;
+    
+}
+#ppy2 .ppy-stagewrap {
+    padding:        7px;
+    border-radius:          5px 0 5px 5px;
+    -moz-border-radius:     5px 0 5px 5px;
+    -webkit-border-radius:  5px 0 5px 5px;
+    background:     #c1eaff;
+    background:     rgba(193,234,255,0.7);
+}
+
+#ppy2 .ppy-stage {
+    width:              160px;
+    height:             160px;
+    border:             2px solid #fff;
+    border-radius:          3px;
+    -moz-border-radius:     3px;
+    -webkit-border-radius:  3px;
+    background-color:       #777;
+    cursor:         pointer;
+}
+
+#ppy2 .ppy-counter {
+    background:         #fff;
+    color:              #333;
+    padding:            0 5px;
+    font-size:          0.8em;
+    position:           absolute;
+    bottom:             0;
+    right:              0;
+    opacity:            0.7;
+    border-radius:          5px 0 0 0;
+    -moz-border-radius:     5px 0 0 0;
+    -khtml-border-radius:   5px 0 0 0;
+    -webkit-border-radius:  5px 0 0 0; 
+}
+
+#ppy2 .ppy-loading {
+    background-image:   url(popeye/loading2.gif);
+    background-repeat:  no-repeat;
+    background-position:center;
+}
+
+#ppy2 .ppy-nav {
+    border-radius:          0 5px 5px 0;
+    -moz-border-radius:     0 5px 5px 0;
+    -webkit-border-radius:  0 5px 5px 0;
+    background:     #76c6ee;
+    background:     -webkit-gradient(
+        linear,
+        left top,
+        right bottom,
+        color-stop(0, rgb(118,198,238)),
+        color-stop(1, rgb(45,158,214))
+    );
+    background:     -moz-linear-gradient(
+        left top,
+        rgb(118,198,238) 0%,
+        rgb(45,158,214) 100%
+    );
+    border-left:    1px solid #6ab1d5;
+    width:          45px;
+    position:       absolute;
+    top:            4px;
+    right:          0;
+}
+
+#ppy2 .nav-wrap {
+    padding:        5px 0;
+}
+
+#ppy2 .ppy-nav a {
+    display:        block;
+    overflow:       hidden;
+    text-indent:    -900em;
+    height:         22px;
+    padding:        5px;
+    border-radius:          0 5px 5px 0;
+    -moz-border-radius:     0 5px 5px 0;
+    -webkit-border-radius:  0 5px 5px 0;
+    width:          30px;
+}
+
+#ppy2 .ppy-prev {
+    background:     url(popeye/prev3.png) no-repeat center;
+}
+
+#ppy2 .ppy-next {
+    background:     url(popeye/next3.png) no-repeat center;
+}
+
+#ppy2 .ppy-switch-enlarge {
+    background:     url(popeye/enlarge4.png) no-repeat center;
+}
+
+#ppy2 .ppy-switch-compact {
+    background:     url(popeye/compact4.png) no-repeat center;
+}
+
+#ppy2 .ppy-nav a:hover {
+    background-color:   #378eba;
+    cursor:         pointer;
+    opacity:        0.8;
+}
+.ppy-outer {
+    display:                none;
+}
+.ppy-active .ppy-outer {
+    display:                block;
+}
+.ppy-stage {
+    background-repeat:      no-repeat !important;
+    background-position:    center center !important;
+    position:               relative;
+}
+
+.ppy-placeholder {
+    position:               relative;
+}
+
+.ppy-caption,
+.ppy-captionwrap {
+    overflow:               hidden;
+}
+
+.ppy-hidden {
+    display:                none !important;
+}

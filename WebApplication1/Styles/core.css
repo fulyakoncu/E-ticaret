@@ -1,0 +1,112 @@
+﻿/*Satır için*/
+.radsatir {
+  display: block;
+  clear: both;
+}
+
+.form {
+	display: block;
+	padding: 0;
+	position: relative;
+	overflow: hidden;
+}
+/*Genişlik tanımlamaları*/
+.radw40 {
+  width: 40px;
+}
+.radw50 {
+  width: 40px;
+}
+.radw100 {
+  width: 100px;
+}
+.radw120 {
+  width: 120px;
+}
+.radw140 {
+  width: 140px;
+}
+.radw160 {
+  width: 160px;
+}
+.radw200 {
+  width: 200px;
+}
+.radw260 {
+  width: 260px;
+}
+.radw300 {
+  width: 300px;
+}
+.radw320 {
+  width: 320px;
+}
+.radw360 {
+  width: 360px;
+}
+.radw400 {
+  width: 400px;
+}
+.radw460 {
+  width: 460px;
+}
+.radw500 {
+  width: 500px;
+}
+.radw560 {
+  width: 560px;
+}
+.radw600 {
+  width: 600px;
+}
+.radw660 {
+  width: 660px;
+}
+.radw700 {
+  width: 700px;
+}
+.radw760 {
+  width: 760px;
+}
+.radw800 {
+  width: 800px;
+}
+.radw860 {
+  width: 860px;
+}
+.radw900 {
+  width: 900px;
+}
+.radw960 {
+  width: 960px;
+}
+
+
+
+/*Sağ Sol*/
+.radleft {
+  float: left;
+}
+.radright {
+  float: right;
+}
+
+.clear {
+  clear: both;
+}
+
+/*Yükseklik*/
+.height100
+{
+	height:100px;
+}
+.height120
+{
+	height:100px;
+}
+
+/*Genel Tasarım*/
+.baslik
+{
+	font-weight:bold;
+}

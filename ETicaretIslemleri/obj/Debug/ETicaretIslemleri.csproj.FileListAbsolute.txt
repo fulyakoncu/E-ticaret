@@ -1,0 +1,139 @@
+C:\Users\Sevinc\tahsin\Cekirdek\Eticaret\ETicaretIslemleri\bin\Debug\ETicaretIslemleri.dll
+C:\Users\Sevinc\tahsin\Cekirdek\Eticaret\ETicaretIslemleri\bin\Debug\ETicaretIslemleri.pdb
+C:\Users\Sevinc\tahsin\Cekirdek\Eticaret\ETicaretIslemleri\bin\Debug\LogSistemi.dll
+C:\Users\Sevinc\tahsin\Cekirdek\Eticaret\ETicaretIslemleri\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\Sevinc\tahsin\Cekirdek\Eticaret\ETicaretIslemleri\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\Sevinc\tahsin\Cekirdek\Eticaret\ETicaretIslemleri\bin\Debug\MiniCore.dll
+C:\Users\Sevinc\tahsin\Cekirdek\Eticaret\ETicaretIslemleri\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Sevinc\tahsin\Cekirdek\Eticaret\ETicaretIslemleri\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Sevinc\tahsin\Cekirdek\Eticaret\ETicaretIslemleri\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\Sevinc\tahsin\Cekirdek\Eticaret\ETicaretIslemleri\bin\Debug\LogSistemi.pdb
+C:\Users\Sevinc\tahsin\Cekirdek\Eticaret\ETicaretIslemleri\bin\Debug\MiniCore.pdb
+C:\Users\Sevinc\tahsin\Cekirdek\Eticaret\ETicaretIslemleri\bin\Debug\Microsoft.Practices.Unity.pdb
+C:\Users\Sevinc\tahsin\Cekirdek\Eticaret\ETicaretIslemleri\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Sevinc\tahsin\Cekirdek\Eticaret\ETicaretIslemleri\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+C:\Users\Sevinc\tahsin\Cekirdek\Eticaret\ETicaretIslemleri\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Sevinc\tahsin\Cekirdek\Eticaret\ETicaretIslemleri\obj\Debug\ETicaretIslemleri.dll
+C:\Users\Sevinc\tahsin\Cekirdek\Eticaret\ETicaretIslemleri\obj\Debug\ETicaretIslemleri.pdb
+C:\Users\Sevinch\Tahsin\Projeler\Eticaret\Eticaret\ETicaretIslemleri\bin\Debug\ETicaretIslemleri.dll
+C:\Users\Sevinch\Tahsin\Projeler\Eticaret\Eticaret\ETicaretIslemleri\bin\Debug\ETicaretIslemleri.pdb
+C:\Users\Sevinch\Tahsin\Projeler\Eticaret\Eticaret\ETicaretIslemleri\bin\Debug\LogSistemi.dll
+C:\Users\Sevinch\Tahsin\Projeler\Eticaret\Eticaret\ETicaretIslemleri\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\Sevinch\Tahsin\Projeler\Eticaret\Eticaret\ETicaretIslemleri\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\Sevinch\Tahsin\Projeler\Eticaret\Eticaret\ETicaretIslemleri\bin\Debug\MiniCore.dll
+C:\Users\Sevinch\Tahsin\Projeler\Eticaret\Eticaret\ETicaretIslemleri\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Sevinch\Tahsin\Projeler\Eticaret\Eticaret\ETicaretIslemleri\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Sevinch\Tahsin\Projeler\Eticaret\Eticaret\ETicaretIslemleri\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\Sevinch\Tahsin\Projeler\Eticaret\Eticaret\ETicaretIslemleri\bin\Debug\LogSistemi.pdb
+C:\Users\Sevinch\Tahsin\Projeler\Eticaret\Eticaret\ETicaretIslemleri\bin\Debug\MiniCore.pdb
+C:\Users\Sevinch\Tahsin\Projeler\Eticaret\Eticaret\ETicaretIslemleri\bin\Debug\Microsoft.Practices.Unity.pdb
+C:\Users\Sevinch\Tahsin\Projeler\Eticaret\Eticaret\ETicaretIslemleri\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Sevinch\Tahsin\Projeler\Eticaret\Eticaret\ETicaretIslemleri\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+C:\Users\Sevinch\Tahsin\Projeler\Eticaret\Eticaret\ETicaretIslemleri\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Sevinch\Tahsin\Projeler\Eticaret\Eticaret\ETicaretIslemleri\obj\Debug\ETicaretIslemleri.dll
+C:\Users\Sevinch\Tahsin\Projeler\Eticaret\Eticaret\ETicaretIslemleri\obj\Debug\ETicaretIslemleri.pdb
+C:\Users\Sevinch\Tahsin\Projeler\Eticaret\Eticaret-son\ETicaretIslemleri\bin\Debug\ETicaretIslemleri.dll
+C:\Users\Sevinch\Tahsin\Projeler\Eticaret\Eticaret-son\ETicaretIslemleri\bin\Debug\ETicaretIslemleri.pdb
+C:\Users\Sevinch\Tahsin\Projeler\Eticaret\Eticaret-son\ETicaretIslemleri\bin\Debug\LogSistemi.dll
+C:\Users\Sevinch\Tahsin\Projeler\Eticaret\Eticaret-son\ETicaretIslemleri\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\Sevinch\Tahsin\Projeler\Eticaret\Eticaret-son\ETicaretIslemleri\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\Sevinch\Tahsin\Projeler\Eticaret\Eticaret-son\ETicaretIslemleri\bin\Debug\MiniCore.dll
+C:\Users\Sevinch\Tahsin\Projeler\Eticaret\Eticaret-son\ETicaretIslemleri\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Sevinch\Tahsin\Projeler\Eticaret\Eticaret-son\ETicaretIslemleri\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Sevinch\Tahsin\Projeler\Eticaret\Eticaret-son\ETicaretIslemleri\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\Sevinch\Tahsin\Projeler\Eticaret\Eticaret-son\ETicaretIslemleri\bin\Debug\LogSistemi.pdb
+C:\Users\Sevinch\Tahsin\Projeler\Eticaret\Eticaret-son\ETicaretIslemleri\bin\Debug\MiniCore.pdb
+C:\Users\Sevinch\Tahsin\Projeler\Eticaret\Eticaret-son\ETicaretIslemleri\bin\Debug\Microsoft.Practices.Unity.pdb
+C:\Users\Sevinch\Tahsin\Projeler\Eticaret\Eticaret-son\ETicaretIslemleri\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Sevinch\Tahsin\Projeler\Eticaret\Eticaret-son\ETicaretIslemleri\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+C:\Users\Sevinch\Tahsin\Projeler\Eticaret\Eticaret-son\ETicaretIslemleri\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Sevinch\Tahsin\Projeler\Eticaret\Eticaret-son\ETicaretIslemleri\obj\Debug\ETicaretIslemleri.dll
+C:\Users\Sevinch\Tahsin\Projeler\Eticaret\Eticaret-son\ETicaretIslemleri\obj\Debug\ETicaretIslemleri.pdb
+C:\Users\PC\Desktop\Eticaret-proje\ETicaretIslemleri\bin\Debug\ETicaretIslemleri.dll.config
+C:\Users\PC\Desktop\Eticaret-proje\ETicaretIslemleri\bin\Debug\ETicaretIslemleri.dll
+C:\Users\PC\Desktop\Eticaret-proje\ETicaretIslemleri\bin\Debug\ETicaretIslemleri.pdb
+C:\Users\PC\Desktop\Eticaret-proje\ETicaretIslemleri\bin\Debug\EntityFramework.dll
+C:\Users\PC\Desktop\Eticaret-proje\ETicaretIslemleri\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\PC\Desktop\Eticaret-proje\ETicaretIslemleri\bin\Debug\LogSistemi.dll
+C:\Users\PC\Desktop\Eticaret-proje\ETicaretIslemleri\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\PC\Desktop\Eticaret-proje\ETicaretIslemleri\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\PC\Desktop\Eticaret-proje\ETicaretIslemleri\bin\Debug\MiniCore.dll
+C:\Users\PC\Desktop\Eticaret-proje\ETicaretIslemleri\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\PC\Desktop\Eticaret-proje\ETicaretIslemleri\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\PC\Desktop\Eticaret-proje\ETicaretIslemleri\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\PC\Desktop\Eticaret-proje\ETicaretIslemleri\bin\Debug\EntityFramework.xml
+C:\Users\PC\Desktop\Eticaret-proje\ETicaretIslemleri\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\PC\Desktop\Eticaret-proje\ETicaretIslemleri\bin\Debug\LogSistemi.pdb
+C:\Users\PC\Desktop\Eticaret-proje\ETicaretIslemleri\bin\Debug\MiniCore.pdb
+C:\Users\PC\Desktop\Eticaret-proje\ETicaretIslemleri\bin\Debug\Microsoft.Practices.Unity.pdb
+C:\Users\PC\Desktop\Eticaret-proje\ETicaretIslemleri\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\PC\Desktop\Eticaret-proje\ETicaretIslemleri\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+C:\Users\PC\Desktop\Eticaret-proje\ETicaretIslemleri\obj\Debug\ETicaretIslemleri.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\Eticaret-proje\ETicaretIslemleri\obj\Debug\ETicaretIslemleri.dll
+C:\Users\PC\Desktop\Eticaret-proje\ETicaretIslemleri\obj\Debug\ETicaretIslemleri.pdb
+C:\Users\PC\Desktop\Eticaret-proje - Kopya\ETicaretIslemleri\obj\Debug\ETicaretIslemleri.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\Eticaret-proje - Kopya\ETicaretIslemleri\bin\Debug\ETicaretIslemleri.dll.config
+C:\Users\PC\Desktop\Eticaret-proje - Kopya\ETicaretIslemleri\bin\Debug\ETicaretIslemleri.dll
+C:\Users\PC\Desktop\Eticaret-proje - Kopya\ETicaretIslemleri\bin\Debug\ETicaretIslemleri.pdb
+C:\Users\PC\Desktop\Eticaret-proje - Kopya\ETicaretIslemleri\bin\Debug\EntityFramework.dll
+C:\Users\PC\Desktop\Eticaret-proje - Kopya\ETicaretIslemleri\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\PC\Desktop\Eticaret-proje - Kopya\ETicaretIslemleri\bin\Debug\LogSistemi.dll
+C:\Users\PC\Desktop\Eticaret-proje - Kopya\ETicaretIslemleri\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\PC\Desktop\Eticaret-proje - Kopya\ETicaretIslemleri\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\PC\Desktop\Eticaret-proje - Kopya\ETicaretIslemleri\bin\Debug\MiniCore.dll
+C:\Users\PC\Desktop\Eticaret-proje - Kopya\ETicaretIslemleri\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\PC\Desktop\Eticaret-proje - Kopya\ETicaretIslemleri\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\PC\Desktop\Eticaret-proje - Kopya\ETicaretIslemleri\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\PC\Desktop\Eticaret-proje - Kopya\ETicaretIslemleri\bin\Debug\EntityFramework.xml
+C:\Users\PC\Desktop\Eticaret-proje - Kopya\ETicaretIslemleri\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\PC\Desktop\Eticaret-proje - Kopya\ETicaretIslemleri\bin\Debug\LogSistemi.pdb
+C:\Users\PC\Desktop\Eticaret-proje - Kopya\ETicaretIslemleri\bin\Debug\MiniCore.pdb
+C:\Users\PC\Desktop\Eticaret-proje - Kopya\ETicaretIslemleri\bin\Debug\Microsoft.Practices.Unity.pdb
+C:\Users\PC\Desktop\Eticaret-proje - Kopya\ETicaretIslemleri\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\PC\Desktop\Eticaret-proje - Kopya\ETicaretIslemleri\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+C:\Users\PC\Desktop\Eticaret-proje - Kopya\ETicaretIslemleri\obj\Debug\ETicaretIslemleri.dll
+C:\Users\PC\Desktop\Eticaret-proje - Kopya\ETicaretIslemleri\obj\Debug\ETicaretIslemleri.pdb
+C:\Users\PC\Desktop\proje\Eticaret-proje - Kopya\ETicaretIslemleri\bin\Debug\ETicaretIslemleri.dll.config
+C:\Users\PC\Desktop\proje\Eticaret-proje - Kopya\ETicaretIslemleri\bin\Debug\ETicaretIslemleri.dll
+C:\Users\PC\Desktop\proje\Eticaret-proje - Kopya\ETicaretIslemleri\bin\Debug\ETicaretIslemleri.pdb
+C:\Users\PC\Desktop\proje\Eticaret-proje - Kopya\ETicaretIslemleri\bin\Debug\EntityFramework.dll
+C:\Users\PC\Desktop\proje\Eticaret-proje - Kopya\ETicaretIslemleri\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\PC\Desktop\proje\Eticaret-proje - Kopya\ETicaretIslemleri\bin\Debug\LogSistemi.dll
+C:\Users\PC\Desktop\proje\Eticaret-proje - Kopya\ETicaretIslemleri\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\PC\Desktop\proje\Eticaret-proje - Kopya\ETicaretIslemleri\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\PC\Desktop\proje\Eticaret-proje - Kopya\ETicaretIslemleri\bin\Debug\MiniCore.dll
+C:\Users\PC\Desktop\proje\Eticaret-proje - Kopya\ETicaretIslemleri\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\PC\Desktop\proje\Eticaret-proje - Kopya\ETicaretIslemleri\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\PC\Desktop\proje\Eticaret-proje - Kopya\ETicaretIslemleri\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\PC\Desktop\proje\Eticaret-proje - Kopya\ETicaretIslemleri\bin\Debug\EntityFramework.xml
+C:\Users\PC\Desktop\proje\Eticaret-proje - Kopya\ETicaretIslemleri\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\PC\Desktop\proje\Eticaret-proje - Kopya\ETicaretIslemleri\bin\Debug\LogSistemi.pdb
+C:\Users\PC\Desktop\proje\Eticaret-proje - Kopya\ETicaretIslemleri\bin\Debug\MiniCore.pdb
+C:\Users\PC\Desktop\proje\Eticaret-proje - Kopya\ETicaretIslemleri\bin\Debug\Microsoft.Practices.Unity.pdb
+C:\Users\PC\Desktop\proje\Eticaret-proje - Kopya\ETicaretIslemleri\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\PC\Desktop\proje\Eticaret-proje - Kopya\ETicaretIslemleri\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+C:\Users\PC\Desktop\proje\Eticaret-proje - Kopya\ETicaretIslemleri\obj\Debug\ETicaretIslemleri.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\proje\Eticaret-proje - Kopya\ETicaretIslemleri\obj\Debug\ETicaretIslemleri.dll
+C:\Users\PC\Desktop\proje\Eticaret-proje - Kopya\ETicaretIslemleri\obj\Debug\ETicaretIslemleri.pdb
+C:\Users\PC\Desktop\E-ticaret\ETicaretIslemleri\bin\Debug\ETicaretIslemleri.dll.config
+C:\Users\PC\Desktop\E-ticaret\ETicaretIslemleri\bin\Debug\ETicaretIslemleri.dll
+C:\Users\PC\Desktop\E-ticaret\ETicaretIslemleri\bin\Debug\ETicaretIslemleri.pdb
+C:\Users\PC\Desktop\E-ticaret\ETicaretIslemleri\bin\Debug\EntityFramework.dll
+C:\Users\PC\Desktop\E-ticaret\ETicaretIslemleri\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\PC\Desktop\E-ticaret\ETicaretIslemleri\bin\Debug\LogSistemi.dll
+C:\Users\PC\Desktop\E-ticaret\ETicaretIslemleri\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\PC\Desktop\E-ticaret\ETicaretIslemleri\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\PC\Desktop\E-ticaret\ETicaretIslemleri\bin\Debug\MiniCore.dll
+C:\Users\PC\Desktop\E-ticaret\ETicaretIslemleri\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\PC\Desktop\E-ticaret\ETicaretIslemleri\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\PC\Desktop\E-ticaret\ETicaretIslemleri\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\PC\Desktop\E-ticaret\ETicaretIslemleri\bin\Debug\EntityFramework.xml
+C:\Users\PC\Desktop\E-ticaret\ETicaretIslemleri\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\PC\Desktop\E-ticaret\ETicaretIslemleri\bin\Debug\LogSistemi.pdb
+C:\Users\PC\Desktop\E-ticaret\ETicaretIslemleri\bin\Debug\MiniCore.pdb
+C:\Users\PC\Desktop\E-ticaret\ETicaretIslemleri\bin\Debug\Microsoft.Practices.Unity.pdb
+C:\Users\PC\Desktop\E-ticaret\ETicaretIslemleri\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\PC\Desktop\E-ticaret\ETicaretIslemleri\bin\Debug\Microsoft.Practices.Unity.Interception.pdb
+C:\Users\PC\Desktop\E-ticaret\ETicaretIslemleri\obj\Debug\ETicaretIslemleri.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\E-ticaret\ETicaretIslemleri\obj\Debug\ETicaretIslemleri.dll
+C:\Users\PC\Desktop\E-ticaret\ETicaretIslemleri\obj\Debug\ETicaretIslemleri.pdb

@@ -1,0 +1,54 @@
+C:\Users\Sevinc\tahsin\Cekirdek\Eticaret\MiniCore\bin\Debug\MiniCore.dll
+C:\Users\Sevinc\tahsin\Cekirdek\Eticaret\MiniCore\bin\Debug\MiniCore.pdb
+C:\Users\Sevinc\tahsin\Cekirdek\Eticaret\MiniCore\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Sevinc\tahsin\Cekirdek\Eticaret\MiniCore\obj\Debug\MiniCore.dll
+C:\Users\Sevinc\tahsin\Cekirdek\Eticaret\MiniCore\obj\Debug\MiniCore.pdb
+C:\Users\Sevinch\Tahsin\Projeler\Eticaret\Eticaret\MiniCore\bin\Debug\MiniCore.dll
+C:\Users\Sevinch\Tahsin\Projeler\Eticaret\Eticaret\MiniCore\bin\Debug\MiniCore.pdb
+C:\Users\Sevinch\Tahsin\Projeler\Eticaret\Eticaret\MiniCore\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Sevinch\Tahsin\Projeler\Eticaret\Eticaret\MiniCore\obj\Debug\MiniCore.dll
+C:\Users\Sevinch\Tahsin\Projeler\Eticaret\Eticaret\MiniCore\obj\Debug\MiniCore.pdb
+C:\Users\Sevinch\Tahsin\Projeler\Eticaret\Eticaret-son\MiniCore\bin\Debug\MiniCore.dll
+C:\Users\Sevinch\Tahsin\Projeler\Eticaret\Eticaret-son\MiniCore\bin\Debug\MiniCore.pdb
+C:\Users\Sevinch\Tahsin\Projeler\Eticaret\Eticaret-son\MiniCore\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Sevinch\Tahsin\Projeler\Eticaret\Eticaret-son\MiniCore\obj\Debug\MiniCore.dll
+C:\Users\Sevinch\Tahsin\Projeler\Eticaret\Eticaret-son\MiniCore\obj\Debug\MiniCore.pdb
+C:\Users\PC\Desktop\Eticaret-proje\MiniCore\bin\Debug\MiniCore.dll.config
+C:\Users\PC\Desktop\Eticaret-proje\MiniCore\bin\Debug\MiniCore.dll
+C:\Users\PC\Desktop\Eticaret-proje\MiniCore\bin\Debug\MiniCore.pdb
+C:\Users\PC\Desktop\Eticaret-proje\MiniCore\bin\Debug\EntityFramework.dll
+C:\Users\PC\Desktop\Eticaret-proje\MiniCore\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\PC\Desktop\Eticaret-proje\MiniCore\bin\Debug\EntityFramework.xml
+C:\Users\PC\Desktop\Eticaret-proje\MiniCore\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\PC\Desktop\Eticaret-proje\MiniCore\obj\Debug\MiniCore.dll
+C:\Users\PC\Desktop\Eticaret-proje\MiniCore\obj\Debug\MiniCore.pdb
+C:\Users\PC\Desktop\Eticaret-proje - Kopya\MiniCore\bin\Debug\MiniCore.dll.config
+C:\Users\PC\Desktop\Eticaret-proje - Kopya\MiniCore\bin\Debug\MiniCore.dll
+C:\Users\PC\Desktop\Eticaret-proje - Kopya\MiniCore\bin\Debug\MiniCore.pdb
+C:\Users\PC\Desktop\Eticaret-proje - Kopya\MiniCore\bin\Debug\EntityFramework.dll
+C:\Users\PC\Desktop\Eticaret-proje - Kopya\MiniCore\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\PC\Desktop\Eticaret-proje - Kopya\MiniCore\bin\Debug\EntityFramework.xml
+C:\Users\PC\Desktop\Eticaret-proje - Kopya\MiniCore\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\PC\Desktop\Eticaret-proje - Kopya\MiniCore\obj\Debug\MiniCore.dll
+C:\Users\PC\Desktop\Eticaret-proje - Kopya\MiniCore\obj\Debug\MiniCore.pdb
+C:\Users\PC\Desktop\proje\Eticaret-proje - Kopya\MiniCore\bin\Debug\MiniCore.dll.config
+C:\Users\PC\Desktop\proje\Eticaret-proje - Kopya\MiniCore\bin\Debug\MiniCore.dll
+C:\Users\PC\Desktop\proje\Eticaret-proje - Kopya\MiniCore\bin\Debug\MiniCore.pdb
+C:\Users\PC\Desktop\proje\Eticaret-proje - Kopya\MiniCore\bin\Debug\EntityFramework.dll
+C:\Users\PC\Desktop\proje\Eticaret-proje - Kopya\MiniCore\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\PC\Desktop\proje\Eticaret-proje - Kopya\MiniCore\bin\Debug\EntityFramework.xml
+C:\Users\PC\Desktop\proje\Eticaret-proje - Kopya\MiniCore\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\PC\Desktop\proje\Eticaret-proje - Kopya\MiniCore\obj\Debug\MiniCore.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\proje\Eticaret-proje - Kopya\MiniCore\obj\Debug\MiniCore.dll
+C:\Users\PC\Desktop\proje\Eticaret-proje - Kopya\MiniCore\obj\Debug\MiniCore.pdb
+C:\Users\PC\Desktop\Eticaret-proje - Kopya\MiniCore\obj\Debug\MiniCore.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\E-ticaret\MiniCore\bin\Debug\MiniCore.dll.config
+C:\Users\PC\Desktop\E-ticaret\MiniCore\bin\Debug\MiniCore.dll
+C:\Users\PC\Desktop\E-ticaret\MiniCore\bin\Debug\MiniCore.pdb
+C:\Users\PC\Desktop\E-ticaret\MiniCore\bin\Debug\EntityFramework.dll
+C:\Users\PC\Desktop\E-ticaret\MiniCore\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\PC\Desktop\E-ticaret\MiniCore\bin\Debug\EntityFramework.xml
+C:\Users\PC\Desktop\E-ticaret\MiniCore\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\PC\Desktop\E-ticaret\MiniCore\obj\Debug\MiniCore.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\E-ticaret\MiniCore\obj\Debug\MiniCore.dll
+C:\Users\PC\Desktop\E-ticaret\MiniCore\obj\Debug\MiniCore.pdb

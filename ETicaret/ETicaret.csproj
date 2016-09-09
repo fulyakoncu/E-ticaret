@@ -1,0 +1,596 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{8B77412C-8D9E-4B75-A441-3FE9CDA2A9FB}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ETicaret</RootNamespace>
+    <AssemblyName>ETicaret</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <UseIISExpress>false</UseIISExpress>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>4.0</OldToolsVersion>
+    <IISExpressSSLPort />
+    <IISExpressAnonymousAuthentication />
+    <IISExpressWindowsAuthentication />
+    <IISExpressUseClassicPipelineMode />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AjaxControlToolkit">
+      <HintPath>..\packages\AjaxControlToolkit.4.1.51116\lib\40\AjaxControlToolkit.dll</HintPath>
+    </Reference>
+    <Reference Include="AntiXSSLibrary">
+      <HintPath>..\packages\AjaxControlToolkit.4.1.51116\lib\40\SanitizerProviders\AntiXSSLibrary.dll</HintPath>
+    </Reference>
+    <Reference Include="CollectionPager, Version=0.0.0.0, Culture=neutral" />
+    <Reference Include="CrystalDecisions.ReportsSource">
+      <HintPath>..\CrystalDecisions.ReportsSource.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.Shared">
+      <HintPath>..\CrystalDecisions.Shared.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.Web">
+      <HintPath>..\DLL\CrystalDecisions.Web.dll</HintPath>
+    </Reference>
+    <Reference Include="ePayment">
+      <HintPath>..\..\..\..\Downloads\Eticaret\Eticaret\ETicaret\bin\ePayment.dll</HintPath>
+    </Reference>
+    <Reference Include="ETicaretIslemleri">
+      <HintPath>..\ETicaretIslemleri\bin\Debug\ETicaretIslemleri.dll</HintPath>
+    </Reference>
+    <Reference Include="HtmlSanitizationLibrary">
+      <HintPath>..\packages\AjaxControlToolkit.4.1.51116\lib\40\SanitizerProviders\HtmlSanitizationLibrary.dll</HintPath>
+    </Reference>
+    <Reference Include="LogSistemi">
+      <HintPath>..\LogSistemi\bin\Debug\LogSistemi.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="MiniCore">
+      <HintPath>..\MiniCore\bin\Debug\MiniCore.dll</HintPath>
+    </Reference>
+    <Reference Include="SanitizerProviders">
+      <HintPath>..\packages\AjaxControlToolkit.4.1.51116\lib\40\SanitizerProviders\SanitizerProviders.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Arama.aspx" />
+    <Content Include="Controls\UrunListele.ascx" />
+    <Content Include="GelecekUrunler.aspx" />
+    <Content Include="Hakkimizda.aspx" />
+    <Content Include="Kampanyalar.aspx" />
+    <Content Include="KategoriDetay.aspx" />
+    <Content Include="MarkaDetay.aspx" />
+    <Content Include="Odeme.aspx" />
+    <Content Include="RaporGoster.aspx" />
+    <Content Include="Scripts\jquery-1.6.2.min.js" />
+    <Content Include="Scripts\jquery-ui-1.8.16.custom.min.js" />
+    <Content Include="Scripts\jquery.popeye-2.1.js" />
+    <Content Include="Scripts\jquery.toastmessage.js" />
+    <Content Include="Scripts\jqui-tr.js" />
+    <Content Include="Scripts\number_slideshow.js" />
+    <Content Include="Scripts\webwidget_menu_vertical_menu1.js" />
+    <Content Include="SifreSifirla.aspx" />
+    <Content Include="SiparisDetay.aspx" />
+    <Content Include="Styles\blitzer\images\ui-bg_diagonals-thick_75_f3d8d8_40x40.png" />
+    <Content Include="Styles\blitzer\images\ui-bg_dots-small_65_a6a6a6_2x2.png" />
+    <Content Include="Styles\blitzer\images\ui-bg_flat_0_333333_40x100.png" />
+    <Content Include="Styles\blitzer\images\ui-bg_flat_65_ffffff_40x100.png" />
+    <Content Include="Styles\blitzer\images\ui-bg_flat_75_ffffff_40x100.png" />
+    <Content Include="Styles\blitzer\images\ui-bg_glass_55_fbf8ee_1x400.png" />
+    <Content Include="Styles\blitzer\images\ui-bg_highlight-hard_100_eeeeee_1x100.png" />
+    <Content Include="Styles\blitzer\images\ui-bg_highlight-hard_100_f6f6f6_1x100.png" />
+    <Content Include="Styles\blitzer\images\ui-bg_highlight-soft_15_cc0000_1x100.png" />
+    <Content Include="Styles\blitzer\images\ui-icons_004276_256x240.png" />
+    <Content Include="Styles\blitzer\images\ui-icons_cc0000_256x240.png" />
+    <Content Include="Styles\blitzer\images\ui-icons_ffffff_256x240.png" />
+    <Content Include="Styles\blitzer\jquery-ui-1.8.16.custom.css" />
+    <Content Include="Styles\core.css" />
+    <Content Include="Styles\form-elements.css" />
+    <Content Include="Styles\images\bulletwhite.png" />
+    <Content Include="Styles\images\loading.gif" />
+    <Content Include="Styles\images\redbullet.png" />
+    <Content Include="Styles\images\site\banner.gif" />
+    <Content Include="Styles\images\site\btnSepeteAt.png" />
+    <Content Include="Styles\images\site\buttonblue.png" />
+    <Content Include="Styles\images\site\buttongray.png" />
+    <Content Include="Styles\images\site\buttongreen.png" />
+    <Content Include="Styles\images\site\buttonred.png" />
+    <Content Include="Styles\images\site\kartlar.png" />
+    <Content Include="Styles\images\site\logo.png" />
+    <Content Include="Styles\images\site\menu-header.png" />
+    <Content Include="Styles\images\site\menu.png" />
+    <Content Include="Styles\images\site\sepet.png" />
+    <Content Include="Styles\images\site\text.png" />
+    <Content Include="Styles\images\site\urunaltbg.png" />
+    <Content Include="Styles\jquery.popeye.style.css" />
+    <Content Include="Styles\number_slideshow.css" />
+    <Content Include="Styles\popeye\bg1.png" />
+    <Content Include="Styles\popeye\compact1.png" />
+    <Content Include="Styles\popeye\compact2.png" />
+    <Content Include="Styles\popeye\compact3.png" />
+    <Content Include="Styles\popeye\compact4.png" />
+    <Content Include="Styles\popeye\enlarge1.png" />
+    <Content Include="Styles\popeye\enlarge2.png" />
+    <Content Include="Styles\popeye\enlarge3.png" />
+    <Content Include="Styles\popeye\enlarge4.png" />
+    <Content Include="Styles\popeye\loading1.gif" />
+    <Content Include="Styles\popeye\loading2.gif" />
+    <Content Include="Styles\popeye\loading3.gif" />
+    <Content Include="Styles\popeye\next1.png" />
+    <Content Include="Styles\popeye\next3.png" />
+    <Content Include="Styles\popeye\pause3.png" />
+    <Content Include="Styles\popeye\play3.png" />
+    <Content Include="Styles\popeye\prev1.png" />
+    <Content Include="Styles\popeye\prev3.png" />
+    <Content Include="Styles\toastmessage\close.gif" />
+    <Content Include="Styles\toastmessage\error.png" />
+    <Content Include="Styles\toastmessage\notice.png" />
+    <Content Include="Styles\toastmessage\success.png" />
+    <Content Include="Styles\toastmessage\toastmessage.css" />
+    <Content Include="Styles\toastmessage\warning.png" />
+    <Content Include="Iletisim.aspx" />
+    <Content Include="Styles\Site.css" />
+    <Content Include="Default.aspx" />
+    <Content Include="Global.asax" />
+    <Content Include="Styles\webwidget_menu_vertical_menu1.css" />
+    <Content Include="Upload\Logo\dell.jpg" />
+    <Content Include="Upload\Logo\image-not-found.gif" />
+    <Content Include="Upload\UrunResimleri\10\316.jpg.png" />
+    <Content Include="Upload\UrunResimleri\11\331.jpg.png" />
+    <Content Include="Upload\UrunResimleri\12\349.jpg.png" />
+    <Content Include="Upload\UrunResimleri\13\350.jpg.png" />
+    <Content Include="Upload\UrunResimleri\1\Dell-Laptop.jpg" />
+    <Content Include="Upload\UrunResimleri\2\lg-xnote-r200.jpg" />
+    <Content Include="Upload\UrunResimleri\2\LG_X200.jpg" />
+    <Content Include="Upload\UrunResimleri\3\333.jpg.png" />
+    <Content Include="Upload\UrunResimleri\4\416.jpg.png" />
+    <Content Include="Upload\UrunResimleri\4\wpSlider.PNG" />
+    <Content Include="Upload\UrunResimleri\5\350.jpg.png" />
+    <Content Include="Upload\UrunResimleri\6\297.jpg.png" />
+    <Content Include="Upload\UrunResimleri\7\344.jpg" />
+    <Content Include="Upload\UrunResimleri\7\344.jpg.png" />
+    <Content Include="Upload\UrunResimleri\7\iosslider.PNG" />
+    <Content Include="Upload\UrunResimleri\8\434.jpg.png" />
+    <Content Include="Upload\UrunResimleri\8\cppslider.PNG" />
+    <Content Include="Upload\UrunResimleri\9\327.jpg.png" />
+    <Content Include="Upload\UrunResimleri\9\psslidr.PNG" />
+    <Content Include="UrunDetay.aspx" />
+    <Content Include="UyeKayit.aspx" />
+    <Content Include="Uye\Bilgilerim.aspx" />
+    <Content Include="Uye\Siparislerim.aspx" />
+    <Content Include="Uye\UrunListem.aspx" />
+    <Content Include="Web.config">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+    <Content Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+    <Content Include="YeniUrunler.aspx" />
+    <Content Include="Yonetim\BankaTanimlamalari.aspx" />
+    <Content Include="Yonetim\SiparisDuzenle.aspx" />
+    <Content Include="Yonetim\Siparisler.aspx" />
+    <Content Include="Yonetim\Bildirimler.aspx" />
+    <Content Include="Yonetim\KargoTanimlamalari.aspx" />
+    <Content Include="Yonetim\Kategoriler.aspx" />
+    <Content Include="Yonetim\KurumTanimlamalari.aspx" />
+    <Content Include="Yonetim\MarkaTanimlamalari.aspx" />
+    <Content Include="Yonetim\Raporlar.aspx" />
+    <Content Include="Yonetim\TaksitTanimlamalari.aspx" />
+    <Content Include="Yonetim\UrunEkleme.aspx" />
+    <Content Include="Yonetim\UrunGrupEkle.aspx" />
+    <Content Include="Yonetim\UrunGruplari.aspx" />
+    <Content Include="Yonetim\UrunOzellikEkle.aspx" />
+    <Content Include="Yonetim\UrunOzellikleri.aspx" />
+    <Content Include="Yonetim\UrunResimEkle.aspx" />
+    <Content Include="Yonetim\UrunStokIslemi.aspx" />
+    <Content Include="Yonetim\UrunStokListesi.aspx" />
+    <Content Include="Yonetim\UrunYorum.aspx" />
+    <Content Include="Yonetim\UyeListesi.aspx" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Arama.aspx.cs">
+      <DependentUpon>Arama.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Arama.aspx.designer.cs">
+      <DependentUpon>Arama.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Cikis.ashx.cs">
+      <DependentUpon>Cikis.ashx</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\UrunListele.ascx.cs">
+      <DependentUpon>UrunListele.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Controls\UrunListele.ascx.designer.cs">
+      <DependentUpon>UrunListele.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="GelecekUrunler.aspx.cs">
+      <DependentUpon>GelecekUrunler.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="GelecekUrunler.aspx.designer.cs">
+      <DependentUpon>GelecekUrunler.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Hakkimizda.aspx.cs">
+      <DependentUpon>Hakkimizda.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Hakkimizda.aspx.designer.cs">
+      <DependentUpon>Hakkimizda.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Kampanyalar.aspx.cs">
+      <DependentUpon>Kampanyalar.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Kampanyalar.aspx.designer.cs">
+      <DependentUpon>Kampanyalar.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="KategoriDetay.aspx.cs">
+      <DependentUpon>KategoriDetay.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="KategoriDetay.aspx.designer.cs">
+      <DependentUpon>KategoriDetay.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="MarkaDetay.aspx.cs">
+      <DependentUpon>MarkaDetay.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="MarkaDetay.aspx.designer.cs">
+      <DependentUpon>MarkaDetay.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Odeme.aspx.cs">
+      <DependentUpon>Odeme.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Odeme.aspx.designer.cs">
+      <DependentUpon>Odeme.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="RaporGoster.aspx.cs">
+      <DependentUpon>RaporGoster.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="RaporGoster.aspx.designer.cs">
+      <DependentUpon>RaporGoster.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Raporlar\dsRapor.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dsRapor.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="SifreSifirla.aspx.cs">
+      <DependentUpon>SifreSifirla.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="SifreSifirla.aspx.designer.cs">
+      <DependentUpon>SifreSifirla.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Iletisim.aspx.cs">
+      <DependentUpon>Iletisim.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Iletisim.aspx.designer.cs">
+      <DependentUpon>Iletisim.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Cs\UIAraclari.cs" />
+    <Compile Include="Default.aspx.cs">
+      <DependentUpon>Default.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Default.aspx.designer.cs">
+      <DependentUpon>Default.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Global.asax.cs">
+      <DependentUpon>Global.asax</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SiparisDetay.aspx.cs">
+      <DependentUpon>SiparisDetay.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="SiparisDetay.aspx.designer.cs">
+      <DependentUpon>SiparisDetay.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Site.Master.cs">
+      <DependentUpon>Site.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Site.Master.designer.cs">
+      <DependentUpon>Site.Master</DependentUpon>
+    </Compile>
+    <Compile Include="UrunDetay.aspx.cs">
+      <DependentUpon>UrunDetay.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UrunDetay.aspx.designer.cs">
+      <DependentUpon>UrunDetay.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="UyeKayit.aspx.cs">
+      <DependentUpon>UyeKayit.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UyeKayit.aspx.designer.cs">
+      <DependentUpon>UyeKayit.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Uye\Bilgilerim.aspx.cs">
+      <DependentUpon>Bilgilerim.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Uye\Bilgilerim.aspx.designer.cs">
+      <DependentUpon>Bilgilerim.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Uye\Siparislerim.aspx.cs">
+      <DependentUpon>Siparislerim.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Uye\Siparislerim.aspx.designer.cs">
+      <DependentUpon>Siparislerim.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Uye\UrunListem.aspx.cs">
+      <DependentUpon>UrunListem.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Uye\UrunListem.aspx.designer.cs">
+      <DependentUpon>UrunListem.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="YeniUrunler.aspx.cs">
+      <DependentUpon>YeniUrunler.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="YeniUrunler.aspx.designer.cs">
+      <DependentUpon>YeniUrunler.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Yonetim\BankaTanimlamalari.aspx.cs">
+      <DependentUpon>BankaTanimlamalari.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Yonetim\BankaTanimlamalari.aspx.designer.cs">
+      <DependentUpon>BankaTanimlamalari.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Yonetim\SiparisDuzenle.aspx.cs">
+      <DependentUpon>SiparisDuzenle.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Yonetim\SiparisDuzenle.aspx.designer.cs">
+      <DependentUpon>SiparisDuzenle.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Yonetim\Siparisler.aspx.cs">
+      <DependentUpon>Siparisler.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Yonetim\Siparisler.aspx.designer.cs">
+      <DependentUpon>Siparisler.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Yonetim\Bildirimler.aspx.cs">
+      <DependentUpon>Bildirimler.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Yonetim\Bildirimler.aspx.designer.cs">
+      <DependentUpon>Bildirimler.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Yonetim\KargoTanimlamalari.aspx.cs">
+      <DependentUpon>KargoTanimlamalari.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Yonetim\KargoTanimlamalari.aspx.designer.cs">
+      <DependentUpon>KargoTanimlamalari.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Yonetim\Kategoriler.aspx.cs">
+      <DependentUpon>Kategoriler.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Yonetim\Kategoriler.aspx.designer.cs">
+      <DependentUpon>Kategoriler.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Yonetim\KurumTanimlamalari.aspx.cs">
+      <DependentUpon>KurumTanimlamalari.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Yonetim\KurumTanimlamalari.aspx.designer.cs">
+      <DependentUpon>KurumTanimlamalari.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Yonetim\MarkaTanimlamalari.aspx.cs">
+      <DependentUpon>MarkaTanimlamalari.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Yonetim\MarkaTanimlamalari.aspx.designer.cs">
+      <DependentUpon>MarkaTanimlamalari.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Yonetim\Raporlar.aspx.cs">
+      <DependentUpon>Raporlar.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Yonetim\Raporlar.aspx.designer.cs">
+      <DependentUpon>Raporlar.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Yonetim\TaksitTanimlamalari.aspx.cs">
+      <DependentUpon>TaksitTanimlamalari.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Yonetim\TaksitTanimlamalari.aspx.designer.cs">
+      <DependentUpon>TaksitTanimlamalari.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Yonetim\UrunEkleme.aspx.cs">
+      <DependentUpon>UrunEkleme.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Yonetim\UrunEkleme.aspx.designer.cs">
+      <DependentUpon>UrunEkleme.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Yonetim\UrunGrupEkle.aspx.cs">
+      <DependentUpon>UrunGrupEkle.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Yonetim\UrunGrupEkle.aspx.designer.cs">
+      <DependentUpon>UrunGrupEkle.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Yonetim\UrunGruplari.aspx.cs">
+      <DependentUpon>UrunGruplari.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Yonetim\UrunGruplari.aspx.designer.cs">
+      <DependentUpon>UrunGruplari.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Yonetim\UrunOzellikEkle.aspx.cs">
+      <DependentUpon>UrunOzellikEkle.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Yonetim\UrunOzellikEkle.aspx.designer.cs">
+      <DependentUpon>UrunOzellikEkle.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Yonetim\UrunOzellikleri.aspx.cs">
+      <DependentUpon>UrunOzellikleri.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Yonetim\UrunOzellikleri.aspx.designer.cs">
+      <DependentUpon>UrunOzellikleri.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Yonetim\UrunResimEkle.aspx.cs">
+      <DependentUpon>UrunResimEkle.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Yonetim\UrunResimEkle.aspx.designer.cs">
+      <DependentUpon>UrunResimEkle.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Yonetim\UrunStokIslemi.aspx.cs">
+      <DependentUpon>UrunStokIslemi.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Yonetim\UrunStokIslemi.aspx.designer.cs">
+      <DependentUpon>UrunStokIslemi.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Yonetim\UrunStokListesi.aspx.cs">
+      <DependentUpon>UrunStokListesi.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Yonetim\UrunStokListesi.aspx.designer.cs">
+      <DependentUpon>UrunStokListesi.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Yonetim\UrunYorum.aspx.cs">
+      <DependentUpon>UrunYorum.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Yonetim\UrunYorum.aspx.designer.cs">
+      <DependentUpon>UrunYorum.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Yonetim\UyeListesi.aspx.cs">
+      <DependentUpon>UyeListesi.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Yonetim\UyeListesi.aspx.designer.cs">
+      <DependentUpon>UyeListesi.aspx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="App_Data\" />
+    <Folder Include="Upload\Kategori\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Site.Master" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Cikis.ashx" />
+    <None Include="Raporlar\dsRapor.xsc">
+      <DependentUpon>dsRapor.xsd</DependentUpon>
+    </None>
+    <None Include="Raporlar\dsRapor.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dsRapor.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Raporlar\dsRapor.xss">
+      <DependentUpon>dsRapor.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Raporlar\UrunStokListesi.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>UrunStokListesi.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>False</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>19821</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>
+          </IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

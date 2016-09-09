@@ -1,0 +1,62 @@
+input,select, textarea { 
+	padding: 2px;
+	border: solid 1px #E5E5E5;
+	outline: 0;
+	margin:5px;
+	font: normal 13px/100% Verdana, Tahoma, sans-serif;
+	background: #FFFFFF url('bg_form.png') left top repeat-x;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+	}
+input[type=radio] {
+	width:20px;
+	border-width:0px;
+}
+textarea { 
+	height: 50px;
+	line-height: 150%;
+	}
+
+input:hover, textarea:hover,
+input:focus, textarea:focus { 
+	border-color: #C9C9C9; 
+	-webkit-box-shadow: rgba(0, 0, 0, 0.15) 0px 0px 8px;
+	}
+
+.form label { 
+	margin-left: 10px; 
+	color: #999999; 
+	}
+
+input[type=submit] {
+	padding: 5px 10px 5px 10px;
+	background-color: #617798;
+	border: 0;
+	font-size: 11px;
+	color: #FFFFFF;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	height:23px;
+	}
+.redbutton
+{
+    background: #ffffff url(images/site/buttonred.png) repeat-x !important;
+}
+.bluebutton
+{
+    background: #ffffff url(images/site/buttonblue.png) repeat-x !important;
+}
+.greenbutton
+{
+    background: #ffffff url(images/site/buttongreen.png) repeat-x !important;
+}
+.graybutton
+{
+    background: #ffffff url(images/site/buttongray.png) repeat-x !important;
+}
+.SepeteAt
+{
+        background: #ffffff url(images/site/btnSepeteAt.png) no-repeat !important;
+        width:81px;
+}

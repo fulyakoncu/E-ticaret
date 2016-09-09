@@ -1,0 +1,68 @@
+.webwidget_menu_vertical_menu1{
+    padding: 0px;
+    margin: 0px;
+    font: 14px/31px Trebuchet MS,Segoe UI,Arial;
+    width:172px;
+}
+.webwidget_menu_vertical_menu1 ul{
+    padding: 0px;
+    margin: 0px;
+    font-family:Arial;
+    list-style-type:none;
+    width:172px;
+}
+.webwidget_menu_vertical_menu1 ul li{
+    padding: 0px;
+    margin: 0px;
+    height: 31px;
+    position: relative;
+    border-bottom:1px solid #dbdbdb;
+    background:url("images/redbullet.png") no-repeat;
+    background-position:left;
+}
+.webwidget_menu_vertical_menu1 ul li h3{
+    padding: 0px;
+    margin: 0px;
+    padding-left: 10px;
+    font-size: 14px;
+    color: #8F0600;
+    font-weight: bold;
+}
+.webwidget_menu_vertical_menu1 ul .top_border{
+    height: 0px;
+}
+.webwidget_menu_vertical_menu1 ul .bottom_border{
+    height: 0px;
+}
+.webwidget_menu_vertical_menu1 ul li a{
+    padding: 0px;
+    margin: 0px;
+    padding-left: 25px;
+    text-decoration: none;
+    display: block;
+}
+.webwidget_menu_vertical_menu1 ul li ul{
+    padding: 0px;
+    margin: 0px;
+    width: 172px;
+    display: none;
+    position: absolute;
+    z-index: 999999;
+    top: 0px;
+    border:1px solid #dbdbdb;
+    list-style: none;
+    background-color:#ffffff;
+}
+.webwidget_menu_vertical_menu1 ul li ul li{
+    padding: 0px;
+    margin: 0px;
+    border:none;
+    word-wrap:none;
+    height: 27px;
+        border-bottom:1px solid #dbdbdb;
+}
+.webwidget_menu_vertical_menu1 ul li ul li a{
+    padding: 0px;
+    margin: 0px;
+    padding-left: 20px;
+}
